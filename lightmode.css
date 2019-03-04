@@ -58,3 +58,7 @@ button[disabled] {
 .btn-edit:hover {
   color: #dbdbdb !important;
 }
+
+.bcs-navigation .admin-list a, .bcs-navigation .course-list a {
+  color: #fff !important;
+}
