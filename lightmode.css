@@ -1,0 +1,60 @@
+body {
+  color: #4A4A4A !important;
+}
+
+a {
+  color: #235FB2 !important;
+}
+
+.bcs-app-content {
+  background-color: #FBFCFD !important;
+}
+
+.card {
+  background-color: #ffffff !important;
+}
+
+.card-with-title {
+  background-color: #ffffff !important;
+}
+
+.notification-read {
+  background-color: #F9FBFF !important;
+}
+
+.text-primary {
+  color: #4A4A4A !important;
+}
+
+.calendar-date {
+  color: #ffffff !important;
+}
+
+.calendar-days {
+  color: #ffffff !important;
+}
+
+.text-link {
+  color: #235FB2 !important;
+}
+
+.card-footer a {
+  color: #235FB2 !important;
+}
+
+table.bcs-table tbody tr:nth-of-type(2n) {
+  background-color: #646465 !important;
+}
+
+table.bcs-table tbody tr[role=button]:hover {
+  background: #dfebfd !important;
+}
+
+button[disabled=true],
+button[disabled] {
+  color: #dbdbdb !important;
+}
+
+.btn-edit:hover {
+  color: #dbdbdb !important;
+}

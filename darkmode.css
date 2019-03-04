@@ -1,0 +1,64 @@
+body {
+  color: #ffffff !important;
+}
+
+a {
+  color: #c2c1c1 !important;
+}
+
+.bcs-tabs a {
+  color: #333333 !important;
+}
+
+.bcs-app-content {
+  background-color: #333333 !important;
+}
+
+.card {
+  background-color: #333333 !important;
+}
+
+.card-with-title {
+  background-color: #333333 !important;
+}
+
+.notification-read {
+  background-color: #4a4a4a !important;
+}
+
+.text-primary {
+  color: #ffffff !important;
+}
+
+.calendar-date {
+  color: #333333 !important;
+}
+
+.calendar-days {
+  color: #333333 !important;
+}
+
+.text-link {
+  color: #c2c1c1 !important;
+}
+
+.card-footer a {
+  color: #c2c1c1 !important;
+}
+
+table.bcs-table tbody tr:nth-of-type(2n) {
+  background-color: #646465 !important;
+}
+
+table.bcs-table tbody tr[role=button]:hover {
+  background: #4a4a4a !important;
+}
+
+button[disabled=true],
+button[disabled] {
+  color: #333333 !important;
+}
+
+.btn-edit:hover {
+  color: #dbdbdb !important;
+}
